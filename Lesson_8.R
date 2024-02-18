@@ -4,6 +4,7 @@
 # 2024-02-18
 
 ?ggplot2
+# practice exercise
 
 
 library("ggplot2")
