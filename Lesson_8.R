@@ -5,6 +5,7 @@
 
 ?ggplot2
 # practice exercise
+# example
 
 
 library("ggplot2")
